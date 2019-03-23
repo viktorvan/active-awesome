@@ -5,3 +5,6 @@
 
 ## Languages
 - F#
+
+## Build tools
+- [Fake](https://fake.build/)
