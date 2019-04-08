@@ -1,10 +1,5 @@
-https://duckduckgo.com (added by viktor)
-
-https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/introduction (added by viktor)
-
-
-https://eventstore.org/ (added by viktor)
-
-
-https://duckduckgo.com (added by viktor)
+-https://duckduckgo.com (added by viktor)
+-https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/introduction (added by viktor)
+-https://eventstore.org/ (added by viktor)
+-https://duckduckgo.com (added by viktor)
 
