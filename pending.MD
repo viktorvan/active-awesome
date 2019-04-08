@@ -3,3 +3,4 @@
 - https://eventstore.org/ (added by viktor)
 - https://duckduckgo.com (added by viktor)
 - https://nuget.org (added by viktor)
+- www.portal.azure.com (added by viktor)
