@@ -4,3 +4,4 @@
 - https://duckduckgo.com (added by viktor)
 - https://nuget.org (added by viktor)
 - www.portal.azure.com (added by viktor)
+- https://git-scm.com/ (added by viktor)
