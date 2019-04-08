@@ -5,3 +5,4 @@
 - https://nuget.org (added by viktor)
 - www.portal.azure.com (added by viktor)
 - https://git-scm.com/ (added by viktor)
+- https://marketplace.visualstudio.com/itemdetails?itemName=humao.rest-client (added by viktor)
