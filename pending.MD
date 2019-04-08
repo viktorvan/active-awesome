@@ -5,3 +5,6 @@ https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-speci
 
 https://eventstore.org/ (added by viktor)
 
+
+https://duckduckgo.com (added by viktor)
+
