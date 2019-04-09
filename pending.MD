@@ -11,3 +11,4 @@
 - https://www.strathweb.com/2017/05/using-roslyn-refactorings-with-omnisharp-and-visual-studio-code/ (added by viktor)
 - https://www.typescriptlang.org/ (added by viktor)
 - https://toggl.com/ (added by conny.sjogren)
+- https://typora.io/ (added by conny.sjogren)
