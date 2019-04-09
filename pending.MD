@@ -8,3 +8,4 @@
 - https://marketplace.visualstudio.com/itemdetails?itemName=humao.rest-client (added by viktor)
 - https://eu1.mindhub.com/microsoft-certify-with-confidence-mcp-certification-exam/p/MSFT-Cert-w-Confidence (added by kimmen)
 - https://aws.amazon.com/ (added by viktor)
+- https://www.strathweb.com/2017/05/using-roslyn-refactorings-with-omnisharp-and-visual-studio-code/ (added by viktor)
