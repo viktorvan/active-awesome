@@ -12,3 +12,4 @@
 - https://www.typescriptlang.org/ (added by viktor)
 - https://toggl.com/ (added by conny.sjogren)
 - https://typora.io/ (added by conny.sjogren)
+- https://slack.com/ (added by viktor)
