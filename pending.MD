@@ -17,3 +17,4 @@
 - https://github.com/hallatore/Netling (added by kimmen)
 - https://platform.deloitte.com.au/articles/list-of-access-keys-from-output-values-after-arm-template-deployment (added by peter.carlsson)
 - https://azure.microsoft.com/sv-se/services/devops/ (added by viktor)
+- https://azure.microsoft.com/services/devops/ (added by viktor)
