@@ -1,1 +1,2 @@
 - ett tips med beskrivning http://youtube.com (added by viktor)
+- tips med diacritics som aaoAAO byts ut mot nagot annat http://google.se (added by viktor)
